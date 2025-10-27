@@ -5,10 +5,14 @@ This repository documents my daily learning journey from Day 1 to becoming a Job
 
 📅 Progress Plan
 Day	Topic Covered	Status
+
 1	Python Basics — Variables, Data Types	✅ Completed
+
 2	Loops, If-Else, Sets, Tuples	✅ Completed
+
 3	Functions + Mini Project	🔜 Coming Soon
-🚀 Goal
+
+#🚀 Goal
 
 To master Python, Data Analysis, Machine Learning, and Deep Learning within 120 days,
 and build multiple projects to become AI Job Ready.
